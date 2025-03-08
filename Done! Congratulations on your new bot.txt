@@ -1,0 +1,23 @@
+Done! Congratulations on your new bot. You will find it at t.me/svet_manager_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8066311563:AAEoD4Wh6WQZxpLha9uuAR0MKIthuBQTcYA
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+@svet_manager_bot
+
+https://blog.skillfactory.ru/kak-sozdat-bota-v-telegram/
+
+@BotFather
+
+https://sky.pro/wiki/python/nastrojka-i-ispolzovanie-vs-code-dlya-python/
+
+https://habr.com/ru/articles/844236/
+
+https://github.com/eternnoir/pyTelegramBotAPI
+
+https://docs.python.org/
+
+https://habr.com/ru/articles/844236/
