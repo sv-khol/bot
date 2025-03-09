@@ -1,1 +1,1 @@
-secrets = {'BOT_API_TOKEN': '8066311563:AAEoD4Wh6WQZxpLha9uuAR0MKIthuBQTcYA'}
+secrets = {'BOT_API_TOKEN': ''}
